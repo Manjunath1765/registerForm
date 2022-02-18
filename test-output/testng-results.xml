@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-18T18:55:39 IST" name="Default suite" finished-at="2022-02-18T18:55:57 IST" duration-ms="18243">
+    <groups>
+    </groups>
+    <test started-at="2022-02-18T18:55:39 IST" name="Default test" finished-at="2022-02-18T18:55:57 IST" duration-ms="18243">
+      <class name="neogrowth.Tests.RegisterFormTests">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:neogrowth.Tests.RegisterFormTests@54e7df6a]" started-at="2022-02-18T18:55:39 IST" name="initialize" finished-at="2022-02-18T18:55:52 IST" duration-ms="12648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="clickApplyNow()[pri:1, instance:neogrowth.Tests.RegisterFormTests@54e7df6a]" started-at="2022-02-18T18:55:52 IST" name="clickApplyNow" finished-at="2022-02-18T18:55:52 IST" duration-ms="865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickApplyNow -->
+        <test-method signature="enterFullname()[pri:2, instance:neogrowth.Tests.RegisterFormTests@54e7df6a]" started-at="2022-02-18T18:55:52 IST" name="enterFullname" finished-at="2022-02-18T18:55:54 IST" duration-ms="1593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterFullname -->
+        <test-method signature="validateCity()[pri:3, instance:neogrowth.Tests.RegisterFormTests@54e7df6a]" started-at="2022-02-18T18:55:54 IST" name="validateCity" finished-at="2022-02-18T18:55:54 IST" duration-ms="437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCity -->
+        <test-method signature="selectCity()[pri:4, instance:neogrowth.Tests.RegisterFormTests@54e7df6a]" started-at="2022-02-18T18:55:54 IST" name="selectCity" finished-at="2022-02-18T18:55:55 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCity -->
+        <test-method signature="enterInvlaidPhoneNumber()[pri:5, instance:neogrowth.Tests.RegisterFormTests@54e7df6a]" started-at="2022-02-18T18:55:55 IST" name="enterInvlaidPhoneNumber" finished-at="2022-02-18T18:55:55 IST" duration-ms="289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterInvlaidPhoneNumber -->
+        <test-method signature="enterValidPhoneNumber()[pri:6, instance:neogrowth.Tests.RegisterFormTests@54e7df6a]" started-at="2022-02-18T18:55:55 IST" name="enterValidPhoneNumber" finished-at="2022-02-18T18:55:55 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterValidPhoneNumber -->
+        <test-method signature="enterInvlaidEmail()[pri:7, instance:neogrowth.Tests.RegisterFormTests@54e7df6a]" started-at="2022-02-18T18:55:55 IST" name="enterInvlaidEmail" finished-at="2022-02-18T18:55:55 IST" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterInvlaidEmail -->
+        <test-method signature="enterValidEmail()[pri:8, instance:neogrowth.Tests.RegisterFormTests@54e7df6a]" started-at="2022-02-18T18:55:55 IST" name="enterValidEmail" finished-at="2022-02-18T18:55:56 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterValidEmail -->
+        <test-method signature="selectBusinessExperience()[pri:9, instance:neogrowth.Tests.RegisterFormTests@54e7df6a]" started-at="2022-02-18T18:55:56 IST" name="selectBusinessExperience" finished-at="2022-02-18T18:55:56 IST" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectBusinessExperience -->
+        <test-method signature="selectAverageMonthlySale()[pri:10, instance:neogrowth.Tests.RegisterFormTests@54e7df6a]" started-at="2022-02-18T18:55:56 IST" name="selectAverageMonthlySale" finished-at="2022-02-18T18:55:56 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectAverageMonthlySale -->
+        <test-method signature="selectBusinessIndustry()[pri:11, instance:neogrowth.Tests.RegisterFormTests@54e7df6a]" started-at="2022-02-18T18:55:56 IST" name="selectBusinessIndustry" finished-at="2022-02-18T18:55:56 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectBusinessIndustry -->
+        <test-method signature="acceptDigitalPayments()[pri:12, instance:neogrowth.Tests.RegisterFormTests@54e7df6a]" started-at="2022-02-18T18:55:56 IST" name="acceptDigitalPayments" finished-at="2022-02-18T18:55:56 IST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acceptDigitalPayments -->
+        <test-method signature="selectMonthlyCardDigitalSales()[pri:0, instance:neogrowth.Tests.RegisterFormTests@54e7df6a]" started-at="2022-02-18T18:55:56 IST" name="selectMonthlyCardDigitalSales" finished-at="2022-02-18T18:55:56 IST" depends-on-methods="neogrowth.Tests.RegisterFormTests.acceptDigitalPayments" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectMonthlyCardDigitalSales -->
+        <test-method signature="selectpaymentSince()[pri:0, instance:neogrowth.Tests.RegisterFormTests@54e7df6a]" started-at="2022-02-18T18:55:56 IST" name="selectpaymentSince" finished-at="2022-02-18T18:55:57 IST" depends-on-methods="neogrowth.Tests.RegisterFormTests.acceptDigitalPayments" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectpaymentSince -->
+        <test-method signature="sumit()[pri:13, instance:neogrowth.Tests.RegisterFormTests@54e7df6a]" started-at="2022-02-18T18:55:57 IST" name="sumit" finished-at="2022-02-18T18:55:57 IST" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumit -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:neogrowth.Tests.RegisterFormTests@54e7df6a]" started-at="2022-02-18T18:55:57 IST" name="teardown" finished-at="2022-02-18T18:55:57 IST" duration-ms="508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- neogrowth.Tests.RegisterFormTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
