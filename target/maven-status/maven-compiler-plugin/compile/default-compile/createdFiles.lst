@@ -1,0 +1,6 @@
+neogrowth\pageObjects\HomePageObjects.class
+neogrowth\resources\Base.class
+neogrowth\resources\DataDriven.class
+neogrowth\pageObjects\RegisterPageObjects.class
+neogrowth\resources\ExtentReporterNG.class
+neogrowth\resources\Listeners.class

@@ -17,7 +17,7 @@ public class RegisterFormTests extends Base {
 
 	public WebDriver driver;
 
-	public static Logger log = LogManager.getLogger(Base.class.getName());
+	public static Logger log = LogManager.getLogger(RegisterFormTests.class.getName());
 
 	HomePageObjects hp;
 	RegisterPageObjects rp;
